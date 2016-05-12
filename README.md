@@ -1,4 +1,4 @@
-### [demo](/react-material-component/)
+### [demo](http://blog.0xfc.cn/react-material-component/)
 
 ### 包括下属组件：
  - BSelect
