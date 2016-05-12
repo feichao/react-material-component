@@ -89,7 +89,7 @@ class Paging extends React.Component {
       this.props.info.index = value - 1;
       this.goto();
     } else {
-      this.context.showToast('不合法的页码');
+      console.log('不合法的页码');
     }
   }
   
@@ -189,10 +189,6 @@ class Paging extends React.Component {
     )
   }
 }
-
-Paging.contextTypes = {
-  showToast: React.PropTypes.func
-};
 
 
 export default Paging;

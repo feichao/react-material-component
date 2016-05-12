@@ -1,6 +1,6 @@
-# 基于React-material的组件
+### [demo](/react-material-component/)
 
-###包括下属组件：
+### 包括下属组件：
  - BSelect
  - Color
  - Datetime
@@ -9,33 +9,33 @@
  - Tag
  
 ---
-####BSelect
+
+#### BSelect
 按钮组组件，包括单选和多选。
-![Tag][6]
+![BSelect][6]
 
 ---
-####Color
+#### Color
 颜色选择组件。
-![Tag][5]
+![Color][5]
 
 ---
-###Datetime
+### Datetime
 日期时间选择组件，可设置日期时间，日期，时间三种模式。
-![Tag][4]
+![Datetime][4]
 
 ---
-###MultiSelect
-多选组件，支持异步数据加载，数据格式为{label: '', value:
-''}。
-![Tag][3]
+### MultiSelect
+多选组件，支持异步数据加载，数据格式为{label: '', value:''}。
+![MultiSelect][3]
 
 ---
-####Paging
+#### Paging
 分页组件，上一页，下一页，首页，尾页，跳转到某页。
-![Tag][2]
+![Paging][2]
 
 ---
-####Tag
+#### Tag
 标签组件，输入内容点击回车添加标签。
 ![Tag][1]
 
